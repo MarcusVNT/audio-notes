@@ -1,7 +1,7 @@
- #Audio Notes
+<h1>Audio Notes</h1>
 Este é o projeto desenvolvido durante a trilha de React no evento NLW Expert 2024 da RocketSeat. O projeto consiste em uma aplicação de notas onde os usuários podem criar notas em forma de cards. A principal funcionalidade é a capacidade de adicionar notas por meio de voz, utilizando a API Web para converter áudio em texto.
 
-##Tecnologias Utilizadas
+<h2>Tecnologias Utilizadas</h2>
 
 - Vite: Utilizamos o Vite como ferramenta de construção do projeto, proporcionando um ambiente de desenvolvimento rápido e eficiente para aplicações web com React.
 
@@ -13,7 +13,7 @@ Este é o projeto desenvolvido durante a trilha de React no evento NLW Expert 20
 - API Web de Reconhecimento de Voz para Texto: Utilizamos uma API Web para converter áudio em texto, permitindo aos usuários adicionar notas por meio de comandos de voz.
 
 
-##Funcionalidades
+<h2>Funcionalidades</h2>
 
 - Adicionar Notas por Voz: Os usuários podem adicionar notas utilizando comandos de voz. A aplicação utiliza a API Web para converter a fala em texto e criar uma nova nota.
 
