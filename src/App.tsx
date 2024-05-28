@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { NewNoteCard } from "./Components/NewNoteCard";
 import { NoteCard } from "./Components/NoteCard";
-import LogoNLW from "./assets/LogoNLW.svg";
+import LogoNLW from "../public/logo-nlw.svg";
 
 interface Note {
   id: string;
